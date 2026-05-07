@@ -7,13 +7,13 @@
 
 # Exercicio 3
 ## WHILE
-# string = input('Difite uma Sring: ')
+# string = input('Digite uma Sring: ')
 # i = 0
 # while i < len(string):
 #     print(string[i])
 #     i += 1
 
 ## FOR
-conjunto = input('Difite uma Sring: ')
+conjunto = input('Digite uma Sring: ')
 for i in conjunto:
     print(i)

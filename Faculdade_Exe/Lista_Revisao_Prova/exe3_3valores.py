@@ -10,4 +10,4 @@ var3 = int(input('Digite o valor 3: '))
 
 valores = var1,var2,var3
 
-print(max(valores))
+print(f'O maior valor é {max(valores)}. Dentre {valores}')
