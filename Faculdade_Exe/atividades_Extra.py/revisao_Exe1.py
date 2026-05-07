@@ -21,4 +21,4 @@ def buscar(strOrigem, strSubs):
     else:
         print('-1')
 
-buscar('Gabriel','briel')
+buscar('Sofia Linda','Linda')
