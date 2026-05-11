@@ -1,6 +1,0 @@
-string1
-fulaninho
-beltraninho
-ciclaninho
-teste
-blah
