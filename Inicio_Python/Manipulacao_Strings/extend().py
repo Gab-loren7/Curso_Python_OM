@@ -11,3 +11,16 @@ print(vendedores)
 
 vendedores.extend(novas_contratacoes) ## Valores add Deszipados
 print(vendedores)
+
+listaNums = []
+i = 1
+
+while i < 11:
+    listaNums.append(i)
+    i += 1
+print(listaNums)
+    
+listaLetras = ['a', 'b', 'c', 'd']
+
+listaNums.extend(listaLetras)
+print(listaNums)
